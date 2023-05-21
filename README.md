@@ -17,7 +17,7 @@ O código consiste em um carrossel de imagens que pode ser navegado usando setas
 
 ## Links
 
-- [Slider de imagens](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
+- [Slider de imagens](https://erickf-silva.github.io/slider-de-imagens/)
 
 ## Tecnologias utilizadas
 
