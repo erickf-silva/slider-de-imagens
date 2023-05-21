@@ -1,0 +1,27 @@
+@media (max-width: 768px) {
+
+    .seta-voltar .imagem-seta,
+    .seta-avancar .imagem-seta {
+        width: 30px;
+        height: 30px;
+    }
+
+    .conteudo {
+        margin: 0 15%;
+        padding: 25px 30px;
+    }
+
+    .conteudo .titulo {
+        margin-bottom: 30px;
+        font-size: 2.8rem;
+    }
+
+    .conteudo .texto {
+        font-size: 1.6rem;
+        margin-bottom: 20px;
+    }
+
+    .conteudo .botao {
+        font-size: 1.8rem;
+    }
+}
